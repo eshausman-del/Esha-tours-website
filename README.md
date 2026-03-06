@@ -1,0 +1,1 @@
+ExploreWorld is a modern, responsive travel platform designed to help users discover destinations, plan trips, and explore experiences worldwide. The website offers interactive destination cards, engaging layouts, and smooth navigation, making travel planning easy and enjoyable.
